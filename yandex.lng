@@ -1,3 +1,13 @@
+Name=Yandex
+Version=1
+Default=dHJuc2wuMS4xLjIwMTgwOTI0VDE2MjY0NFouYjVhMTQ4YWE2M2JmYTc2Mi40MTAzOTU2ODNlM2U2MzE1ZTYxZThmZDgzMTRhYzJiYzQxNDlhM2Nl
+UrlFmt=https://translate.yandex.net/api/v1.5/tr.json/translate?key=%s&lang=%s&text=%s
+UrlDetectFmt=https://translate.yandex.net/api/v1.5/tr.json/detect?key=%s&text=%s
+DetectExpr="lang":"[a-z]{2,}
+DetectIdx=3
+RegisterApiKey=https://translate.yandex.com/developers/keys
+ResultExpr="text":\[".*"\]
+ResultIdx=3
 Azerbaijan=az
 Albanian=sq
 Amharic=am
