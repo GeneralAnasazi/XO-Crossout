@@ -1,0 +1,20 @@
+[frmMain]
+frmMain=Standardsprachversion
+btnViewListEntry=Zeige Listeneintrag
+btnLanguage=Sprache einstellen
+Button1=Sprache einstellen
+miFile=&Datei
+miFileSelectLanguage=Sprache einstellen
+miFileExit=Beenden
+miHelp=&Hilfe
+miHelpInfo=Info ...
+
+[frmOptions]
+frmOptions=Sprache auswählen
+lblSelectLanguage=Wählen Sie eine Sprache aus ...
+btnLanguage=Schließen
+
+[OtherStrings]
+6000=Sie müssen einen Listeneintrag markieren
+6001=Willkommen im Kurs
+6002=Information

@@ -1,0 +1,20 @@
+[frmMain]
+frmMain=Standard Language Version
+btnViewListEntry=View list entry
+btnLanguage=Select Language
+Button1=Select Language
+miFile=&File
+miFileSelectLanguage=&Select Language
+miFileExit=&Exit
+miHelp=&Help
+miHelpInfo=&Information ...
+
+[frmOptions]
+frmOptions=Select Language
+lblSelectLanguage=Please Select a Language ...
+btnLanguage=Close
+
+[OtherStrings]
+6000=You must select a list entry
+6001=Welcome to the course
+6002=Information

@@ -1,0 +1,30 @@
+﻿[FChat]
+FChat=Crossout Übersetzer
+LLanguage=Sprache:
+SBtn_Settings=
+SBtn_SettingsHint=Optionen
+Btn_TranslateSelected=Markierten übersetzen
+ChB_AutoScroll=Autoscrollen
+CB_LanguageItems=Afrikaans;Albanian;Amharic;Arabic;Armenian;Azerbaijan;Bashkir;Basque;Belarusian;Bengali;Bosnian;Bulgarian;Burmese;Catalan;Cebuano;Chinese;Croatian;Czech;Danish;Dutch;English;Esperanto;Estonian;Finnish;French;Galician;Georgian;German;Greek;Gujarati;Haitian (Creole);Hebrew;Hill Mari;Hindi;Hungarian;Icelandic;Indonesian;Irish;Italian;Japanese;Javanese;Kannada;Kazakh;Khmer;Korean;Kyrgyz;Laotian;Latin;Latvian;Lithuanian;Luxembourgish;Macedonian;Malagasy;Malay;Malayalam;Maltese;Maori;Marathi;Mari;Mongolian;Nepali;Norwegian;Papiamento;Persian;Polish;Portuguese;Punjabi;Romanian;Russian;Scottish;Serbian;Sinhala;Slovakian;Slovenian;Spanish;Sundanese;Swahili;Swedish;Tagalog;Tajik;Tamil;Tatar;Telugu;Thai;Turkish;Udmurt;Ukrainian;Urdu;Uzbek;Vietnamese;Welsh;Xhosa;Yiddish
+ChB_AutoTranslate=Auto Übersetzung
+Btn_TranslateText=Übersetze Text
+Btn_Copy=Kopieren
+SG_TranslationItems=Zeit;Kanal;Spieler;Original Text;Übersetzung
+[FSettings]
+FSettings=Optionen
+BBtn_Cancel=Abbrechen
+BBtn_Ok=OK
+SpeedButton1=...
+LEd_Folder=Log Verzeichnis
+GB_Translation=Anbieter
+LProvider=Anbieter Name
+LEd_ApiKey=API - Schlüssel
+CB_ProviderItems=Google;Yandex
+GroupBox1=Auto Übersetzung
+LChatRooms=Chat Rooms
+LEd_CrossoutPath=Verzeichnis Crossout
+ChB_StartWithCrossout=Starte mit Crossout
+CLB_ChatRoomsItems=Allgemein;Neulinge;Clan-Suche;Gruppensuche;Clan;Team;Private Nachrichten
+OpenDialogTitle=
+OpenDialogFilter=
+[OtherStrings]
